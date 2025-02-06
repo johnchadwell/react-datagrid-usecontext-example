@@ -114,17 +114,14 @@ const OrderItemListComponentMuiX1 = (props) => {
 
           '& .MuiDataGrid-footerContainer': {
             backgroundColor: 'primary.light',
-            Color: 'dataGrid.columnHeaderColor',
           },
 
           '& .MuiDataGrid-selectedRowCount': {
             backgroundColor: 'primary.light',
-            Color: 'dataGrid.columnHeaderColor',
           },
 
           '& .MuiDataGrid-row': {
             backgroundColor: 'primary.superlight',
-            color: 'dataGrid.rowColor',
           },
 
           // // this works - use standard css for hover
